@@ -1,0 +1,7 @@
+[14:02:15] [INFO ] Loaded script startup_scripts:blocks.js in 0.226 s
+[14:02:15] [INFO ] Loaded script startup_scripts:fluid.js in 0.004 s
+[14:02:15] [INFO ] Loaded script startup_scripts:foods.js in 0.002 s
+[14:02:15] [INFO ] Loaded script startup_scripts:items.js in 0.013 s
+[14:02:15] [INFO ] Loaded script startup_scripts:modify.js in 0.001 s
+[14:02:15] [INFO ] Loaded script startup_scripts:tools.js in 0.001 s
+[14:02:15] [INFO ] Loaded 6/6 KubeJS startup scripts in 0.837 s
